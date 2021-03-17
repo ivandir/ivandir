@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # <a href = https://ivandir.com/> Ivandir Ndrio </a> 
 Cloud Architect and Software Engineer focused on Python, Java, C# and C++. Passion for creating intuitive and dynamic products that help humans live a better life. Fueled by high energy levels and enthusiasm with an interest on learning new and challenging things in bleeding edge technologies like VR and AI.
 
