@@ -4,8 +4,8 @@
 Cloud Architect and Software Engineer focused on Python, Java and C++. Have serious passion for creating intuitive and dynamic products. Fueled by high energy levels and boundless enthusiasm I like to keep learning, continue challenging myself, and do interesting things that matter in bleeding edge technologies like VR and AI.
 
 - My tech stack - Docker, Kubernetes, Django, Flutter, Postgresql/Mysql, Bootstrap, CSS
-- Cloud - AWS, Azure, Terraform, Ansible, Jenkins
-- Development - Unity3D, Jupyter, PyTorch
+  - Cloud - AWS, Azure, Terraform, Ansible, Jenkins
+  - Development - Unity3D, Jupyter, PyTorch
 
 - 🔭 I’m currently working on a various VR and AI projects
 - 🌱 I’m currently learning PyTorch and Flutter
