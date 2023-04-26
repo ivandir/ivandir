@@ -1,9 +1,11 @@
 # <a href = https://ivandir.com/> Ivandir Ndrio </a> 
 Cloud Architect and Software Engineer focused on Python, Java, C# and C++. Passion for creating intuitive and dynamic products that help humans live a better life. Fueled by high energy levels and enthusiasm with an interest on learning new and challenging things in bleeding edge technologies like VR and AI.
 
-- **My tech stack** - Docker, Kubernetes, Django, Flutter, PyTorch, Postgresql/Mysql, Bootstrap, CSS
-  - **Cloud** - AWS, Azure, Terraform, Ansible, Packer, Vagrant, Jenkins
-  - **Development** - Unity3D, Jupyter, VSCode (VIM)
+- **Tech Stacks** - Docker, Kubernetes, Django, Flutter, PyTorch, Postgresql/Mysql, Bootstrap, CSS
+- **Cloud** - AWS, Azure, Terraform, Ansible, Packer, Vagrant, Jenkins
+- **ML/AI** - GPT4, StableDiffussion
+- **Development** - Unity3D, Jupyter, VSCode (w/ VIM)
+- **Languages** - Python, Java, Javascript, Dart, C++
 
 - 🔭 I’m currently working on a various VR and AI projects
 - 🌱 I’m currently learning PyTorch and Flutter
