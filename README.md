@@ -3,7 +3,7 @@ Cloud Architect and Software Engineer focused on Python, Java, C# and C++. Passi
 
 - **Tech Stacks** - Docker, Kubernetes, Django, Flutter, PyTorch, Postgresql/Mysql, Bootstrap, CSS
 - **Cloud** - AWS, Azure, Terraform, Ansible, Packer, Vagrant, Jenkins
-- **ML/AI** - Transformers, Diffussers, LLMs
+- **ML/AI** - Transformers, Diffusers, LLMs
 - **Development** - Unity3D, Jupyter, VSCode (w/ VIM)
 - **Languages** - Python, Java, Javascript, Dart, C++
 
